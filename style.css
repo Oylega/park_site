@@ -1,9 +1,7 @@
 
-
-
-
-
-
+.resize:hover {
+    transform: scale(2,2);
+  }
 
 footer{
     bottom: 0%;
@@ -43,7 +41,7 @@ footer{
     font: 0.6em;
 }
 
-.sisterparks{
+.footshows{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
